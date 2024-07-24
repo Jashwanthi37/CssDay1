@@ -1,0 +1,68 @@
+#a{
+    color:rgb(226, 43, 43);
+    background-color:rgb(227, 202, 170);
+}
+.b{
+    color:rgb(226, 43, 43);
+    background-color:rgb(227, 202, 170);
+}
+#c{
+    color:rgb(226, 43, 43);
+    background-color:rgb(227, 202, 170);
+}
+.d{
+    color:rgb(226, 43, 43);
+    background-color:rgb(227, 202, 170);
+}
+#e{
+    color:blue;
+}
+#f{
+    color:red;
+
+}
+#g{
+    color:green;
+}
+#h{
+    color:brown;
+}
+#i{
+    color:darkmagenta;
+}
+.j{
+    color:blue;
+}
+.k{
+    color:red;
+
+}
+.l{
+    color:green;
+}
+.m{
+    color:brown;
+}
+.n{
+    color:darkmagenta;
+}
+#e,#h,.k,.n{
+    background-color:wheat;
+}
+#f,#i,.l{
+    background-color: aqua;
+}
+#g,.j,.m{
+    background-color: rgb(116, 205, 176);
+}
+*{
+    background-color:aquamarine;
+    color:blue
+}
+#ab,#cd,#ef{
+    color:brown;
+
+}
+.gh,.ij{
+    color:black;
+}
